@@ -1,0 +1,1 @@
+package alfred_models
